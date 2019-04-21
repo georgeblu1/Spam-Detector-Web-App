@@ -1,0 +1,8 @@
+Flask
+Werkzeug
+scikit-learn
+textblob
+pandas
+pip
+Jinja2
+MarkupSafe
